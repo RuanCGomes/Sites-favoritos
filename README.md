@@ -10,6 +10,6 @@ Portanto, apesar de não ter muito o que comentar, vou deixá-las aqui:
 - Já que achei que era mais útil, usei o "_blank" para os links, assim sendo mais fácil abrir todos eles sem ter que voltar à página.
 - E, para não deixar o trabalho muito "seco", adicionei um breve comentário sobre cada escolha, entre a imagem e o link.
 
-Aproveite a pasta!👋
+Aproveite, lembre-se de colocar todos os arquivos numa mesma pasta!👋
 
 <img height="160" width="160" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" />
